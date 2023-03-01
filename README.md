@@ -1,4 +1,3 @@
-# sozialwelten.github.io
 <!DOCTYPE html>
 <html>
   <head>
